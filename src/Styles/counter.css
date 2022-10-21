@@ -1,0 +1,16 @@
+.counter {
+  min-width: 250px;
+  height: 250px;
+  font-size: 160px;
+  pad: 25px;
+  color: pink;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 5px solid rgb(255, 0, 200);
+  border-radius: 30%;
+  margin-bottom: 15px;
+  background: #8e2de2;
+  background: -webkit-linear-gradient(to right, #4a00e0, #8e2de2);
+  background: linear-gradient(to right, #4a00e0, #8e2de2);
+}
